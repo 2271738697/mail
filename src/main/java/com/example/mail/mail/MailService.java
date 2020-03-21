@@ -1,4 +1,4 @@
-package com.example.mail;
+package com.example.mail.mail;
 
 import javafx.scene.media.MediaException;
 import org.springframework.beans.factory.annotation.Autowired;
